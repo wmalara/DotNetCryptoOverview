@@ -1,0 +1,708 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="System.Security.Cryptography.AsnEncodedData" Collapsed="true">
+    <Position X="62.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.AsnEncodedDataCollection" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="64.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Security.Cryptography.AsnEncodedDataEnumerator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="66.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Security.Cryptography.Oid" Collapsed="true">
+    <Position X="66.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.OidCollection" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="68" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Security.Cryptography.OidEnumerator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="69.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Security.Cryptography.AesCryptoServiceProvider" Collapsed="true">
+    <Position X="11.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.AesManaged" Collapsed="true">
+    <Position X="13.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.CngAlgorithm" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="68" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Security.Cryptography.CngAlgorithmGroup" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="69.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Security.Cryptography.CngKey" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="71.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Security.Cryptography.CngKeyBlobFormat" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="62.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Security.Cryptography.CngKeyCreationParameters" Collapsed="true">
+    <Position X="64.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.CngPropertyCollection" Collapsed="true">
+    <Position X="66.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.CngProvider" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="68" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Security.Cryptography.CngUIPolicy" Collapsed="true">
+    <Position X="69.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.ECDiffieHellman" Collapsed="true">
+    <Position X="17.75" Y="14" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.ECDiffieHellmanPublicKey" Collapsed="true">
+    <Position X="16.75" Y="19.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Security.Cryptography.ECDiffieHellmanCng" Collapsed="true">
+    <Position X="17.75" Y="15.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.ECDiffieHellmanCngPublicKey" Collapsed="true">
+    <Position X="16.75" Y="21" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.ECDsa" Collapsed="true">
+    <Position X="11" Y="14" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.ECDsaCng" Collapsed="true">
+    <Position X="11" Y="15.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.ManifestSignatureInformation" Collapsed="true">
+    <Position X="62.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.ManifestSignatureInformationCollection" Collapsed="true">
+    <Position X="64.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.MD5Cng" Collapsed="true">
+    <Position X="44.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.SHA1Cng" Collapsed="true">
+    <Position X="49" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.SHA256Cng" Collapsed="true">
+    <Position X="58" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.SHA256CryptoServiceProvider" Collapsed="true">
+    <Position X="60.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.SHA384Cng" Collapsed="true">
+    <Position X="15.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.SHA384CryptoServiceProvider" Collapsed="true">
+    <Position X="17.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.SHA512Cng" Collapsed="true">
+    <Position X="24.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.SHA512CryptoServiceProvider" Collapsed="true">
+    <Position X="26.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.StrongNameSignatureInformation" Collapsed="true">
+    <Position X="68" Y="8.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.KeySizes" Collapsed="true">
+    <Position X="71.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.CryptographicException" Collapsed="true">
+    <Position X="25.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.CryptographicUnexpectedOperationException" Collapsed="true">
+    <Position X="25.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.RandomNumberGenerator" Collapsed="true">
+    <Position X="13.75" Y="19.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Security.Cryptography.RNGCryptoServiceProvider" Collapsed="true">
+    <Position X="13.75" Y="21" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.Aes" Collapsed="true">
+    <Position X="12.25" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.AsymmetricAlgorithm" Collapsed="true">
+    <Position X="14.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Security.Cryptography.AsymmetricKeyExchangeDeformatter" Collapsed="true">
+    <Position X="22" Y="18.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.AsymmetricKeyExchangeFormatter" Collapsed="true">
+    <Position X="17" Y="16.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.AsymmetricSignatureDeformatter" Collapsed="true">
+    <Position X="12" Y="16.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.AsymmetricSignatureFormatter" Collapsed="true">
+    <Position X="22" Y="15.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.ToBase64Transform" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="69.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Security.Cryptography.FromBase64Transform" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="69.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Security.Cryptography.CryptoAPITransform" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="71.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Security.Cryptography.CspParameters" Collapsed="true">
+    <Position X="68" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.CryptoConfig" Collapsed="true">
+    <Position X="62.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.CryptoStream" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="64.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Security.Cryptography.DES" Collapsed="true">
+    <Position X="20.25" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.DESCryptoServiceProvider" Collapsed="true">
+    <Position X="20.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.DeriveBytes" Collapsed="true">
+    <Position X="22" Y="12.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Security.Cryptography.DSA" Collapsed="true">
+    <Position X="13.25" Y="14" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.DSACryptoServiceProvider" Collapsed="true">
+    <Position X="13.25" Y="15.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Security.Cryptography.DSASignatureDeformatter" Collapsed="true">
+    <Position X="10.75" Y="18" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.DSASignatureFormatter" Collapsed="true">
+    <Position X="20.75" Y="17" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.HMAC" Collapsed="true">
+    <Position X="34.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.HMACMD5" Collapsed="true">
+    <Position X="28.75" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.HMACRIPEMD160" Collapsed="true">
+    <Position X="31" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.HMACSHA1" Collapsed="true">
+    <Position X="33.25" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.HMACSHA256" Collapsed="true">
+    <Position X="35.5" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.HMACSHA384" Collapsed="true">
+    <Position X="37.75" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.HMACSHA512" Collapsed="true">
+    <Position X="40" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.HashAlgorithm" Collapsed="true">
+    <Position X="36.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Security.Cryptography.CspKeyContainerInfo" Collapsed="true">
+    <Position X="66.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.KeyedHashAlgorithm" Collapsed="true">
+    <Position X="35.5" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.MACTripleDES" Collapsed="true">
+    <Position X="42.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.MD5" Collapsed="true">
+    <Position X="45.75" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.MD5CryptoServiceProvider" Collapsed="true">
+    <Position X="46.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.MaskGenerationMethod" Collapsed="true">
+    <Position X="10.75" Y="19.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.PasswordDeriveBytes" Collapsed="true">
+    <Position X="23" Y="14" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.PKCS1MaskGenerationMethod" Collapsed="true">
+    <Position X="10.75" Y="21" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.RC2" Collapsed="true">
+    <Position X="22.5" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.RC2CryptoServiceProvider" Collapsed="true">
+    <Position X="22.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.Rfc2898DeriveBytes" Collapsed="true">
+    <Position X="20.75" Y="14" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.RIPEMD160" Collapsed="true">
+    <Position X="19.75" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.RIPEMD160Managed" Collapsed="true">
+    <Position X="19.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.RSA" Collapsed="true">
+    <Position X="15.5" Y="14" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.RSASignaturePadding" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="64.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Security.Cryptography.RSACryptoServiceProvider" Collapsed="true">
+    <Position X="15.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Security.Cryptography.RSAEncryptionPadding" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="62.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Security.Cryptography.RSAOAEPKeyExchangeDeformatter" Collapsed="true">
+    <Position X="23" Y="20" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.RSAOAEPKeyExchangeFormatter" Collapsed="true">
+    <Position X="15.75" Y="18" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.RSAPKCS1KeyExchangeDeformatter" Collapsed="true">
+    <Position X="20.75" Y="20" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.RSAPKCS1KeyExchangeFormatter" Collapsed="true">
+    <Position X="18" Y="18" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.RSAPKCS1SignatureDeformatter" Collapsed="true">
+    <Position X="13" Y="18" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.RSAPKCS1SignatureFormatter" Collapsed="true">
+    <Position X="23" Y="17" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.Rijndael" Collapsed="true">
+    <Position X="15.75" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.RijndaelManaged" Collapsed="true">
+    <Position X="15.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.RijndaelManagedTransform" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="71.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Security.Cryptography.SHA1" Collapsed="true">
+    <Position X="51.25" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.SHA1CryptoServiceProvider" Collapsed="true">
+    <Position X="51.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.SHA1Managed" Collapsed="true">
+    <Position X="53.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.SHA256" Collapsed="true">
+    <Position X="58" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.SHA256Managed" Collapsed="true">
+    <Position X="55.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.SHA384" Collapsed="true">
+    <Position X="15.25" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.SHA384Managed" Collapsed="true">
+    <Position X="13" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.SHA512" Collapsed="true">
+    <Position X="24.25" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.SHA512Managed" Collapsed="true">
+    <Position X="22" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.SignatureDescription" Collapsed="true">
+    <Position X="66.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.SymmetricAlgorithm" Collapsed="true">
+    <Position X="16.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Security.Cryptography.TripleDES" Collapsed="true">
+    <Position X="18" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.TripleDESCryptoServiceProvider" Collapsed="true">
+    <Position X="18" Y="11.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.X509Certificates.X500DistinguishedName" Collapsed="true">
+    <Position X="84" Y="36.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.X509Certificates.PublicKey" Collapsed="true">
+    <Position X="97.25" Y="31" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.X509Certificates.X509Certificate2" Collapsed="true">
+    <Position X="10.75" Y="32.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.X509Certificates.X509CertificateCollection" Collapsed="true">
+    <Position X="13.75" Y="31" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.X509Certificates.X509Certificate2Collection" Collapsed="true">
+    <Position X="13.75" Y="32.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.X509Certificates.X509Certificate2Enumerator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="100.75" Y="31" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Security.Cryptography.X509Certificates.X509Chain" Collapsed="true">
+    <Position X="95.5" Y="32" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.X509Certificates.X509ChainElement" Collapsed="true">
+    <Position X="97.25" Y="32" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.X509Certificates.X509ChainElementCollection" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="99" Y="32" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Security.Cryptography.X509Certificates.X509ChainElementEnumerator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="100.75" Y="32" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Security.Cryptography.X509Certificates.X509ChainPolicy" Collapsed="true">
+    <Position X="95.5" Y="33" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.X509Certificates.X509Extension" Collapsed="true">
+    <Position X="89.75" Y="36.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.X509Certificates.X509KeyUsageExtension" Collapsed="true">
+    <Position X="86.25" Y="38.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.X509Certificates.X509BasicConstraintsExtension" Collapsed="true">
+    <Position X="88.5" Y="38.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.X509Certificates.X509EnhancedKeyUsageExtension" Collapsed="true">
+    <Position X="90.75" Y="38.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.X509Certificates.X509SubjectKeyIdentifierExtension" Collapsed="true">
+    <Position X="93" Y="38.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.X509Certificates.X509ExtensionCollection" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="97.25" Y="33" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Security.Cryptography.X509Certificates.X509ExtensionEnumerator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="99" Y="33" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Security.Cryptography.X509Certificates.X509Store" Collapsed="true">
+    <Position X="100.75" Y="33" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.X509Certificates.AuthenticodeSignatureInformation" Collapsed="true">
+    <Position X="95.5" Y="31" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.X509Certificates.TimestampInformation" Collapsed="true">
+    <Position X="99" Y="31" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.X509Certificates.X509Certificate" Collapsed="true">
+    <Position X="10.75" Y="31" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Struct Name="System.Security.Cryptography.CngProperty" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="62.75" Y="10" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="System.Security.Cryptography.DSAParameters" Collapsed="true">
+    <Position X="64.5" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Struct>
+  <Struct Name="System.Security.Cryptography.HashAlgorithmName" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="66.25" Y="10" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="System.Security.Cryptography.RSAParameters" Collapsed="true">
+    <Position X="68" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Struct>
+  <Struct Name="System.Security.Cryptography.X509Certificates.X509ChainStatus" Collapsed="true">
+    <Position X="95.5" Y="34.25" Width="1.5" />
+    <TypeIdentifier />
+  </Struct>
+  <Interface Name="System.Security.Cryptography.ICryptoTransform" Collapsed="true">
+    <Position X="62.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="System.Security.Cryptography.ICspAsymmetricAlgorithm" Collapsed="true">
+    <Position X="64.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Enum Name="System.Security.Cryptography.OidGroup" Collapsed="true">
+    <Position X="66.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.CngKeyHandleOpenOptions" Collapsed="true">
+    <Position X="68" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.ECDiffieHellmanKeyDerivationFunction" Collapsed="true">
+    <Position X="69.75" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.ECKeyXmlFormat" Collapsed="true">
+    <Position X="71.5" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.CngExportPolicies" Collapsed="true">
+    <Position X="64.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.CngKeyCreationOptions" Collapsed="true">
+    <Position X="66.25" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.CngKeyOpenOptions" Collapsed="true">
+    <Position X="69.75" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.CngKeyUsages" Collapsed="true">
+    <Position X="71.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.CngPropertyOptions" Collapsed="true">
+    <Position X="62.75" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.CngUIProtectionLevels" Collapsed="true">
+    <Position X="64.5" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.SignatureVerificationResult" Collapsed="true">
+    <Position X="62.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.CipherMode" Collapsed="true">
+    <Position X="62.75" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.PaddingMode" Collapsed="true">
+    <Position X="68" Y="13.75" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.FromBase64TransformMode" Collapsed="true">
+    <Position X="62.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.CspProviderFlags" Collapsed="true">
+    <Position X="68" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.CryptoStreamMode" Collapsed="true">
+    <Position X="66.25" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.KeyNumber" Collapsed="true">
+    <Position X="64.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.RSASignaturePaddingMode" Collapsed="true">
+    <Position X="71.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.RSAEncryptionPaddingMode" Collapsed="true">
+    <Position X="69.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.X509Certificates.X500DistinguishedNameFlags" Collapsed="true">
+    <Position X="95.5" Y="36.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.X509Certificates.X509NameType" Collapsed="true">
+    <Position X="100.75" Y="37" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.X509Certificates.X509IncludeOption" Collapsed="true">
+    <Position X="95.5" Y="37" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.X509Certificates.X509FindType" Collapsed="true">
+    <Position X="100.75" Y="36.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.X509Certificates.X509ChainStatusFlags" Collapsed="true">
+    <Position X="97.25" Y="36.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.X509Certificates.X509RevocationMode" Collapsed="true">
+    <Position X="97.25" Y="37.75" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.X509Certificates.X509RevocationFlag" Collapsed="true">
+    <Position X="95.5" Y="37.75" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.X509Certificates.X509VerificationFlags" Collapsed="true">
+    <Position X="100.75" Y="37.75" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.X509Certificates.X509KeyUsageFlags" Collapsed="true">
+    <Position X="99" Y="37" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.X509Certificates.X509SubjectKeyIdentifierHashAlgorithm" Collapsed="true">
+    <Position X="99" Y="37.75" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.X509Certificates.StoreLocation" Collapsed="true">
+    <Position X="97.25" Y="35.5" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.X509Certificates.OpenFlags" Collapsed="true">
+    <Position X="95.5" Y="35.5" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.X509Certificates.StoreName" Collapsed="true">
+    <Position X="99" Y="35.5" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.X509Certificates.TrustStatus" Collapsed="true">
+    <Position X="100.75" Y="35.5" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.X509Certificates.X509ContentType" Collapsed="true">
+    <Position X="99" Y="36.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="System.Security.Cryptography.X509Certificates.X509KeyStorageFlags" Collapsed="true">
+    <Position X="97.25" Y="37" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
